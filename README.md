@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hola 👋, soy Nehemias Retamozo
 
-<!--
-**nehemiasretamozodev/nehemiasretamozodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desarrollador de Software
 
-Here are some ideas to get you started:
+Desarrollo aplicaciones web y sistemas empresariales utilizando
+Laravel, PHP, MySQL, JavaScript y tecnologías modernas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tecnologías
+
+- PHP
+- Laravel
+- MySQL
+- JavaScript
+- HTML5
+- CSS3
+- Git & GitHub
+- Visual Studio Code
+
+---
+
+### 🧑‍💻 Actualmente
+
+🔭 Trabajando en sistemas y aplicaciones web  
+🌱 Mejorando mis conocimientos en desarrollo Full Stack  
+🚀 Construyendo nuevos proyectos para mi portafolio  
+
+---
+
+### 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehemiasretamozodev&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehemiasretamozodev&layout=compact)
+
+---
+
+### 🌐 Encuéntrame
+
+GitHub · LinkedIn · YouTube · Portafolio
