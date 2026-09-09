@@ -2,7 +2,7 @@
 <!-- Master Head Section -->
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center" style="color: #ffffff;">Hi 👋, I'm Nehemias Retamozo</h1>
-<h3 align="center" style="color: #ffffff;">Passionate MERN Stack developer and AI/ML enthusiast from India</h3>
+<h3 align="center" style="color: #ffffff;">Apasionado desarrollador de MERN Stack y entusiasta de AI / ML de Perú.</h3>
 
 <!-- Profile Views Section -->
 <p align="left"> 
@@ -130,5 +130,5 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------------
-Credit: [xeno2410](https://github.com/xeno2410)
-Last Edited on: 21/11/2024
+Credit: [xeno2410](https://github.com/nehemiasretamozodev)
+Last Edited on: 28/10/2024
